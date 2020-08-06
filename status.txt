@@ -1,0 +1,5 @@
+Day 1: The isValid function worked properly and correct.
+Day 1: The logIn function worked properly and correct.
+Day 2: The selectedNamad function worked properly and correct, just need to put it on a if condition and work on more than one namad.
+Day 2: The kharid and foroosh function worked properly and correct.
+Day 2: The pishnevis and orderNow function worked properly and correct.
