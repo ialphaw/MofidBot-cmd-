@@ -155,8 +155,8 @@ class MofidBot:
         btn_selectAll.click()
 
 
-username = "4420869860"
-password = "Ghazal1378"
+username = ""
+password = ""
 
 test = MofidBot(username, password)
 
